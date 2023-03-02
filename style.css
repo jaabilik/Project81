@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background-image: url("https://i.pinimg.com/564x/28/65/e7/2865e7cddb6106127de5958d5e606270.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#canvas {
+    border: solid;
+    border-color: rgb(47, 83, 131);
+    background-color: rgb(250, 249, 244);
+}
+h1 {
+    color:rgb(122, 179, 236);
+    font-size: 50px;
+    font-family: 'Climate Crisis', cursive;
+}
